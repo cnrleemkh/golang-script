@@ -1,35 +1,35 @@
-index:  DataChannel-1634704864612303000 stat:  {1.634704865688e+12 data-channel DataChannel-1634704864612303000 data  1  open 0 0 0 0}
+index:  DataChannel-1634717146806592000 stat:  {1.634717147929e+12 data-channel DataChannel-1634717146806592000 data  1  open 0 0 0 0}
 
-index:  certificate-1634704864612144000 stat:  {1.634704865688e+12 certificate certificate-1634704864612144000 0d:53:98:39:7a:ef:f2:b1:84:bc:7f:b5:8e:65:f5:04:b2:e8:b1:f2:f0:12:ac:be:3e:fb:cd:86:c3:e0:4c:da sha-256 MIIBIjCByaADAgECAhECsoVTiErysIlraBHa7xbqJDAKBggqhkjOPQQDAjARMQ8wDQYDVQQDEwZXZWJSVEMwHhcNMjExMDE5MDQ0MTA0WhcNMjExMTE5MDQ0MTA0WjARMQ8wDQYDVQQDEwZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARZWuChMNwWHZ3dTgtAHJKt27CC7I6BbLCGb7q2AgCOYI1Yt0JJmXY9GVxj6jJMOVV_Xwe3U9OU2lLjdijTV7-yowIwADAKBggqhkjOPQQDAgNIADBFAiEAzpLI7G0K8ULxd-t2jjEG0DPemLxIk8iM53cxOfAOCWQCIALWclt7OAmZnBfiiN9H2dIPStj1X97YzoKqfYWy2lg8 CN=WebRTC}
+index:  candidate:ob+lB4nYFko6BXA01ka09SUAqyngBCZG-candidate:7UPlWVN2LAxKsDiC8TTubiVA4a+ex2G3 stat:  {1.634717147929e+12 candidate-pair candidate:ob+lB4nYFko6BXA01ka09SUAqyngBCZG-candidate:7UPlWVN2LAxKsDiC8TTubiVA4a+ex2G3  candidate:ob+lB4nYFko6BXA01ka09SUAqyngBCZG candidate:7UPlWVN2LAxKsDiC8TTubiVA4a+ex2G3 succeeded true 0 0 0 0 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 0 0 0 0 0 0 0 0 0 0 0 0 -6.795364578871e+12}
 
-index:  iceTransport stat:  {1.634704865688e+12 transport iceTransport 0 0 1395 1461  unknown unknown     }
+index:  candidate:ob+lB4nYFko6BXA01ka09SUAqyngBCZG stat:  {1.634717147929e+12 local-candidate candidate:ob+lB4nYFko6BXA01ka09SUAqyngBCZG  udp4 192.168.0.14 60927 udp host 2130706431   false}
 
-index:  candidate:SwiP/gxT9IzV2wPDfgInWrtz2rwsj4VL-candidate:/KTSm2sBbOlZGfDgbdsjATB9p+39hiLP stat:  {1.634704865689e+12 candidate-pair candidate:SwiP/gxT9IzV2wPDfgInWrtz2rwsj4VL-candidate:/KTSm2sBbOlZGfDgbdsjATB9p+39hiLP  candidate:SwiP/gxT9IzV2wPDfgInWrtz2rwsj4VL candidate:/KTSm2sBbOlZGfDgbdsjATB9p+39hiLP in-progress false 0 0 0 0 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 0 0 0 0 0 0 0 0 0 0 0 0 -6.795364578871e+12}
+index:  candidate:8lF7VVrhSmybDAOgG1u31G2HNogWuwD+ stat:  {1.634717147929e+12 remote-candidate candidate:8lF7VVrhSmybDAOgG1u31G2HNogWuwD+  udp4 172.17.0.2 53555 udp host 2122260223   false}
 
-index:  candidate:dICVjHP3mopGBfuqXC4IOfAlElCXSnCE-candidate:/KTSm2sBbOlZGfDgbdsjATB9p+39hiLP stat:  {1.634704865689e+12 candidate-pair candidate:dICVjHP3mopGBfuqXC4IOfAlElCXSnCE-candidate:/KTSm2sBbOlZGfDgbdsjATB9p+39hiLP  candidate:dICVjHP3mopGBfuqXC4IOfAlElCXSnCE candidate:/KTSm2sBbOlZGfDgbdsjATB9p+39hiLP in-progress false 0 0 0 0 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 0 0 0 0 0 0 0 0 0 0 0 0 -6.795364578871e+12}
+index:  candidate:7UPlWVN2LAxKsDiC8TTubiVA4a+ex2G3 stat:  {1.634717147929e+12 remote-candidate candidate:7UPlWVN2LAxKsDiC8TTubiVA4a+ex2G3  udp4 192.168.0.14 56896 udp prflx 1862270975   false}
 
-index:  candidate:SwiP/gxT9IzV2wPDfgInWrtz2rwsj4VL-candidate:ueqA01ybfriUvM2ZyXUUpCUkViEmKanO stat:  {1.634704865689e+12 candidate-pair candidate:SwiP/gxT9IzV2wPDfgInWrtz2rwsj4VL-candidate:ueqA01ybfriUvM2ZyXUUpCUkViEmKanO  candidate:SwiP/gxT9IzV2wPDfgInWrtz2rwsj4VL candidate:ueqA01ybfriUvM2ZyXUUpCUkViEmKanO succeeded true 0 0 0 0 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 0 0 0 0 0 0 0 0 0 0 0 0 -6.795364578871e+12}
+index:  candidate:ob+lB4nYFko6BXA01ka09SUAqyngBCZG-candidate:CNNMYQHNeB5+sjsM9n52TnNAi1okwbw0 stat:  {1.634717147929e+12 candidate-pair candidate:ob+lB4nYFko6BXA01ka09SUAqyngBCZG-candidate:CNNMYQHNeB5+sjsM9n52TnNAi1okwbw0  candidate:ob+lB4nYFko6BXA01ka09SUAqyngBCZG candidate:CNNMYQHNeB5+sjsM9n52TnNAi1okwbw0 in-progress false 0 0 0 0 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 0 0 0 0 0 0 0 0 0 0 0 0 -6.795364578871e+12}
 
-index:  candidate:dICVjHP3mopGBfuqXC4IOfAlElCXSnCE-candidate:ueqA01ybfriUvM2ZyXUUpCUkViEmKanO stat:  {1.634704865689e+12 candidate-pair candidate:dICVjHP3mopGBfuqXC4IOfAlElCXSnCE-candidate:ueqA01ybfriUvM2ZyXUUpCUkViEmKanO  candidate:dICVjHP3mopGBfuqXC4IOfAlElCXSnCE candidate:ueqA01ybfriUvM2ZyXUUpCUkViEmKanO in-progress false 0 0 0 0 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 0 0 0 0 0 0 0 0 0 0 0 0 -6.795364578871e+12}
+index:  candidate:Dozp6HcpEHsq7UuY5LOzWFDADUYcEgP4-candidate:8lF7VVrhSmybDAOgG1u31G2HNogWuwD+ stat:  {1.634717147929e+12 candidate-pair candidate:Dozp6HcpEHsq7UuY5LOzWFDADUYcEgP4-candidate:8lF7VVrhSmybDAOgG1u31G2HNogWuwD+  candidate:Dozp6HcpEHsq7UuY5LOzWFDADUYcEgP4 candidate:8lF7VVrhSmybDAOgG1u31G2HNogWuwD+ in-progress false 0 0 0 0 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 0 0 0 0 0 0 0 0 0 0 0 0 -6.795364578871e+12}
 
-index:  candidate:ueqA01ybfriUvM2ZyXUUpCUkViEmKanO stat:  {1.634704865689e+12 remote-candidate candidate:ueqA01ybfriUvM2ZyXUUpCUkViEmKanO  udp4 192.168.0.14 59477 udp prflx 1862270975   false}
+index:  candidate:Dozp6HcpEHsq7UuY5LOzWFDADUYcEgP4 stat:  {1.634717147929e+12 local-candidate candidate:Dozp6HcpEHsq7UuY5LOzWFDADUYcEgP4  udp4 42.200.192.233 64935 udp srflx 1694498815   false}
 
-index:  PeerConnection-1634704864611572000 stat:  {1.634704865688e+12 peer-connection PeerConnection-1634704864611572000 2 0 1 1}
+index:  candidate:Dozp6HcpEHsq7UuY5LOzWFDADUYcEgP4-candidate:7UPlWVN2LAxKsDiC8TTubiVA4a+ex2G3 stat:  {1.634717147929e+12 candidate-pair candidate:Dozp6HcpEHsq7UuY5LOzWFDADUYcEgP4-candidate:7UPlWVN2LAxKsDiC8TTubiVA4a+ex2G3  candidate:Dozp6HcpEHsq7UuY5LOzWFDADUYcEgP4 candidate:7UPlWVN2LAxKsDiC8TTubiVA4a+ex2G3 in-progress false 0 0 0 0 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 0 0 0 0 0 0 0 0 0 0 0 0 -6.795364578871e+12}
 
-index:  RTPCodec-1634704864611549000 stat:  {1.634704865689e+12 codec RTPCodec-1634704864611549000 96   video/H264 90000 0  }
+index:  candidate:CNNMYQHNeB5+sjsM9n52TnNAi1okwbw0 stat:  {1.634717147929e+12 remote-candidate candidate:CNNMYQHNeB5+sjsM9n52TnNAi1okwbw0  udp4 42.200.192.233 56896 udp srflx 1686052607   false}
 
-index:  candidate:SwiP/gxT9IzV2wPDfgInWrtz2rwsj4VL-candidate:A4CXOwSbzJQD/aGZdCi/UjL/jpU3hm9Z stat:  {1.634704865689e+12 candidate-pair candidate:SwiP/gxT9IzV2wPDfgInWrtz2rwsj4VL-candidate:A4CXOwSbzJQD/aGZdCi/UjL/jpU3hm9Z  candidate:SwiP/gxT9IzV2wPDfgInWrtz2rwsj4VL candidate:A4CXOwSbzJQD/aGZdCi/UjL/jpU3hm9Z in-progress false 0 0 0 0 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 0 0 0 0 0 0 0 0 0 0 0 0 -6.795364578871e+12}
+index:  DataChannel-1634717147929062000 stat:  {1.634717147929e+12 data-channel DataChannel-1634717147929062000 ServerDataChannel  0  open 0 0 0 0}
 
-index:  candidate:dICVjHP3mopGBfuqXC4IOfAlElCXSnCE-candidate:A4CXOwSbzJQD/aGZdCi/UjL/jpU3hm9Z stat:  {1.634704865689e+12 candidate-pair candidate:dICVjHP3mopGBfuqXC4IOfAlElCXSnCE-candidate:A4CXOwSbzJQD/aGZdCi/UjL/jpU3hm9Z  candidate:dICVjHP3mopGBfuqXC4IOfAlElCXSnCE candidate:A4CXOwSbzJQD/aGZdCi/UjL/jpU3hm9Z in-progress false 0 0 0 0 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 0 0 0 0 0 0 0 0 0 0 0 0 -6.795364578871e+12}
+index:  certificate-1634717146806431000 stat:  {1.634717147929e+12 certificate certificate-1634717146806431000 db:a4:d5:2c:b6:f7:c7:9c:59:f8:bb:87:ff:4c:9d:1c:95:10:a9:35:db:5f:cb:27:f9:89:d9:23:67:f1:c9:14 sha-256 MIIBITCByKADAgECAhBDvKlw81ybK44kyzFYGexjMAoGCCqGSM49BAMCMBExDzANBgNVBAMTBldlYlJUQzAeFw0yMTEwMTkwODA1NDZaFw0yMTExMTkwODA1NDZaMBExDzANBgNVBAMTBldlYlJUQzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBlzc5wANOJnOa2an9EWHPURsCRt6cSm9m8SiCJ_EvNAyJvS2aUCmcnp3LZidHYNBVX-_NZGm_cIiynVNDGoZamjAjAAMAoGCCqGSM49BAMCA0gAMEUCIFV9QC1LJnHT9r7Ds64f0n0qWwyhxoduB9PkovB0G6HUAiEAr8jNJdj8oaShZSx94aIpsV4Ux_1a5_3qYwXxXK0J6Zs CN=WebRTC}
 
-index:  candidate:dICVjHP3mopGBfuqXC4IOfAlElCXSnCE stat:  {1.634704865689e+12 local-candidate candidate:dICVjHP3mopGBfuqXC4IOfAlElCXSnCE  udp4 42.200.192.233 53515 udp srflx 1694498815   false}
+index:  RTPCodec-1634717146805845000 stat:  {1.634717147929e+12 codec RTPCodec-1634717146805845000 96   video/H264 90000 0  }
 
-index:  candidate:/KTSm2sBbOlZGfDgbdsjATB9p+39hiLP stat:  {1.634704865689e+12 remote-candidate candidate:/KTSm2sBbOlZGfDgbdsjATB9p+39hiLP  udp4 42.200.192.233 59477 udp srflx 1686052607   false}
+index:  candidate:Dozp6HcpEHsq7UuY5LOzWFDADUYcEgP4-candidate:CNNMYQHNeB5+sjsM9n52TnNAi1okwbw0 stat:  {1.634717147929e+12 candidate-pair candidate:Dozp6HcpEHsq7UuY5LOzWFDADUYcEgP4-candidate:CNNMYQHNeB5+sjsM9n52TnNAi1okwbw0  candidate:Dozp6HcpEHsq7UuY5LOzWFDADUYcEgP4 candidate:CNNMYQHNeB5+sjsM9n52TnNAi1okwbw0 in-progress false 0 0 0 0 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 0 0 0 0 0 0 0 0 0 0 0 0 -6.795364578871e+12}
 
-index:  candidate:A4CXOwSbzJQD/aGZdCi/UjL/jpU3hm9Z stat:  {1.634704865689e+12 remote-candidate candidate:A4CXOwSbzJQD/aGZdCi/UjL/jpU3hm9Z  udp4 172.17.0.2 44147 udp host 2122260223   false}
+index:  candidate:ob+lB4nYFko6BXA01ka09SUAqyngBCZG-candidate:8lF7VVrhSmybDAOgG1u31G2HNogWuwD+ stat:  {1.634717147929e+12 candidate-pair candidate:ob+lB4nYFko6BXA01ka09SUAqyngBCZG-candidate:8lF7VVrhSmybDAOgG1u31G2HNogWuwD+  candidate:ob+lB4nYFko6BXA01ka09SUAqyngBCZG candidate:8lF7VVrhSmybDAOgG1u31G2HNogWuwD+ in-progress false 0 0 0 0 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 -6.795364578871e+12 0 0 0 0 0 0 0 0 0 0 0 0 -6.795364578871e+12}
 
-index:  sctpTransport stat:  {1.634704865688e+12 transport sctpTransport 0 0 416 436  unknown unknown     }
+index:  iceTransport stat:  {1.634717147929e+12 transport iceTransport 0 0 1344 1461  unknown unknown     }
 
-index:  candidate:SwiP/gxT9IzV2wPDfgInWrtz2rwsj4VL stat:  {1.634704865689e+12 local-candidate candidate:SwiP/gxT9IzV2wPDfgInWrtz2rwsj4VL  udp4 192.168.0.14 53673 udp host 2130706431   false}
+index:  sctpTransport stat:  {1.634717147929e+12 transport sctpTransport 0 0 404 436  unknown unknown     }
 
-index:  DataChannel-1634704865688906000 stat:  {1.634704865688e+12 data-channel DataChannel-1634704865688906000 ServerDataChannel  0  open 0 0 1 22}
+index:  PeerConnection-1634717146805867000 stat:  {1.634717147929e+12 peer-connection PeerConnection-1634717146805867000 2 0 1 1}
