@@ -85,7 +85,7 @@ func main() {
 
 	answer := <-SendOffer(peerId, offer)
 
-	// fmt.Println("This is answer from streamer: ", answer)
+	fmt.Println("This is answer from streamer: ", answer)
 
 	if err := pc.SetRemoteDescription(answer); err != nil {
 		log.Fatal(err)
@@ -121,7 +121,6 @@ func main() {
 	select {}
 }
 
-// func CreatePeerConnection(candidates sync.Mutex, pendingCandidates []*webrtc.ICECandidate) (pc *webrtc.PeerConnection, err error) {
 func CreatePeerConnection(earlyCandidates map[string]webrtc.ICECandidate) (peerId string, pc *webrtc.PeerConnection, err error) {
 	// Set up peer connection config
 	webrtcConfig := webrtc.Configuration{
@@ -237,6 +236,13 @@ func CreatePeerConnection(earlyCandidates map[string]webrtc.ICECandidate) (peerI
 
 		dataChannel.OnOpen(func() {
 			fmt.Printf("Data channel is opened \n")
+
+			stats := pc.GetStats()
+
+			for i, stat := range stats {
+				fmt.Println("index: ", i, "stat: ", stat)
+				fmt.Println("")
+			}
 		})
 
 		dataChannel.OnMessage(func(message webrtc.DataChannelMessage) {
@@ -290,14 +296,6 @@ func CreatePeerConnection(earlyCandidates map[string]webrtc.ICECandidate) (peerI
 	// Show ice gathering state changes, triggered by set local and remote description
 	pc.OnICEGatheringStateChange(func(iceGatherState webrtc.ICEGathererState) {
 		fmt.Printf("ICE Gathering state has changed to: %s \n", iceGatherState.String())
-
-		// if iceGatherState == webrtc.ICEGathererStateComplete {
-		// 	receivers := pc.GetReceivers()
-
-		// 	for _, receiver := range receivers {
-		// 		fmt.Println(receiver.Track())
-		// 	}
-		// }
 	})
 
 	pc.OnSignalingStateChange(func(signalingState webrtc.SignalingState) {
